@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+
+/* --- Primary Brand Color Override (Green) --- */
+:root {
+  --vp-c-brand-1: #42b983; /* A nice shade of green */
+  --vp-c-brand-2: #34a86b; /* Slightly darker green for hover/active states */
+  --vp-c-brand-3: #5dd49a; /* Lighter green for lighter variations */
+}
+
+.text-green-1 { color: var(--vp-c-brand-1); }
+.text-green-2 { color: var(--vp-c-brand-2); }
+.text-green-3 { color: var(--vp-c-brand-3); }
+
+/* Optional: If you also want to change the primary accent color for links, etc. */
+a { color: var(--vp-c-brand-1); }
+a:hover { color: var(--vp-c-brand-2); }
+
+.text-center {
+  text-align: center;
+}
+
+/* CSS Flexbox GRIDS */
+.full-width-section {
+  width: 100%;
+  padding: 2rem 1rem;
+}
+
+.feature-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.feature-item {
+  flex: 1 1 calc(100% / var(--columns, 1) - 2rem);
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+/* .feature-item img {
+  border-radius: 1rem;
+} */
+
+.feature-item a img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.feature-item a:hover img {
+  box-shadow: 0 0 12px rgba(0, 123, 255, 0.6); /* bluish glow */
+  transform: scale(1.02); /* slight zoom on hover */
+}
+
+/* Responsive stack on mobile */
+@media (max-width: 768px) {
+  .feature-item {
+    flex: 1 1 100%;
+  }
+}
