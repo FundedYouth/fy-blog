@@ -1,0 +1,44 @@
+baseURL: https://fundedyouth.org/blog/
+title: The STEAM Engine
+theme: "PaperMod"
+relativeURLs: false
+canonifyURLs: true
+
+params:
+  label:
+    icon: './logo.svg'
+  homeInfoParams:
+    Title: "Welcome to The STEAM Engine"
+    Content: "Fuel your curiosity with the latest breakthroughs in STEAM and education from FundedYouth. Explore hands-on learning in 3D Printing, 3D Modeling, Lasercraft, Coding, and Robotics — where creativity powers the future."
+
+  socialIcons:
+    - name: instagram
+      url: "https://www.instagram.com/fundedyouth/"
+    - name: facebook
+      url: "https://www.facebook.com/FundedYouth"
+    - name: youtube
+      url: "https://www.youtube.com/@FundedYouth"
+    - name: linkedin
+      url: "https://www.linkedin.com/company/fundedyouth/"
+    - name: x
+      url: "https://twitter.com/FundedYouthOrg"
+
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: ./categories
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: ./tags
+      weight: 30
+    - identifier: archives
+      name: The Vault
+      url: ./archive
+      weight: 40

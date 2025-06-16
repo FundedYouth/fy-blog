@@ -1,15 +1,11 @@
 # Node Dependencies
 node_modules/
 
-# VitePress build output
-docs/.vitepress/dist
 
 # Local dev environment stuff
 .DS_Store
-.env.local
+.env*
 *.log
 
-# LFTP Script
-deploy.sh
 
 

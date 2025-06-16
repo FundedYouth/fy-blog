@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on The STEAM Engine</title>
+    <link>http://localhost:1313/blog/tags/</link>
+    <description>Recent content in Tags on The STEAM Engine</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Jun 2025 19:29:45 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fastapi</title>
+      <link>http://localhost:1313/blog/tags/fastapi/</link>
+      <pubDate>Sun, 15 Jun 2025 19:29:45 -0700</pubDate>
+      <guid>http://localhost:1313/blog/tags/fastapi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Insomnia</title>
+      <link>http://localhost:1313/blog/tags/insomnia/</link>
+      <pubDate>Sun, 15 Jun 2025 19:29:45 -0700</pubDate>
+      <guid>http://localhost:1313/blog/tags/insomnia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Postman</title>
+      <link>http://localhost:1313/blog/tags/postman/</link>
+      <pubDate>Sun, 15 Jun 2025 19:29:45 -0700</pubDate>
+      <guid>http://localhost:1313/blog/tags/postman/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rest</title>
+      <link>http://localhost:1313/blog/tags/rest/</link>
+      <pubDate>Sun, 15 Jun 2025 19:29:45 -0700</pubDate>
+      <guid>http://localhost:1313/blog/tags/rest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Venv</title>
+      <link>http://localhost:1313/blog/tags/venv/</link>
+      <pubDate>Sun, 15 Jun 2025 19:29:45 -0700</pubDate>
+      <guid>http://localhost:1313/blog/tags/venv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Api</title>
+      <link>http://localhost:1313/blog/tags/web-api/</link>
+      <pubDate>Sun, 15 Jun 2025 19:29:45 -0700</pubDate>
+      <guid>http://localhost:1313/blog/tags/web-api/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
