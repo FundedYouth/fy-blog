@@ -9,14 +9,11 @@
     <lastBuildDate>Sun, 15 Jun 2025 19:29:45 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Python FastAPI Tutorial</title>
+      <title>Python FastAPI Server Tutorial</title>
       <link>http://localhost:1313/blog/posts/python-fastapi-tutorial/</link>
       <pubDate>Sun, 15 Jun 2025 19:29:45 -0700</pubDate>
       <guid>http://localhost:1313/blog/posts/python-fastapi-tutorial/</guid>
-      <description>&lt;h1 id=&#34;building-a-simple-api-with-python&#34;&gt;Building a Simple API with Python&lt;/h1&gt;
-&lt;p&gt;A guided step-by-step tutorial that shows how Web API&amp;rsquo;s work. You&amp;rsquo;ll learn how to use API Tools to get data and even build your own web api using python.&lt;/p&gt;
-&lt;h2 id=&#34;what-is-an-api&#34;&gt;What is an API&lt;/h2&gt;
-&lt;p&gt;API stands for Application Programming Interface. Unless specified, the type of API being referenced in conversation usually references a web application API like FastAPI (python) or Express API (javascript / nodejs)&lt;/p&gt;</description>
+      <description>A guided step-by-step tutorial that shows how Web API’s work. You’ll learn how to use API Tools to get data and even build your own web api using python.</description>
     </item>
   </channel>
 </rss>

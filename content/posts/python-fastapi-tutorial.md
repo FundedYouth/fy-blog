@@ -1,16 +1,17 @@
 ---
 draft: false
 date: "2025-06-15T19:29:45-07:00"
-title: "Python FastAPI Tutorial"
+title: "Python FastAPI Server Tutorial"
+summary: "A guided step-by-step tutorial that shows how Web API’s work. You’ll learn how to use API Tools to get data and even build your own web api using python."
 cover:
   image: "./images/fast-api-tutorial-up-and-running-locally.png"
-  alt: "Insomnia API Tool"
-  caption: "Insomnia API Tool"
+  alt: "Learn Python by Building a REST API Server with Fast API"
+  caption: "Python and FastAPI Tutorial"
 categories: ["coding"]
-tags: ["fastapi", "web api", "venv", "rest", "insomnia", "postman"]
+tags: ["fastapi", "python", "rest api", "server", "venv", "insomnia", "postman"]
 ---
 
-# Building a Simple API with Python
+## Building a Simple API with Python
 
 A guided step-by-step tutorial that shows how Web API's work. You'll learn how to use API Tools to get data and even build your own web api using python.
 

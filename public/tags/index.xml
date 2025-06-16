@@ -30,10 +30,24 @@
       <description></description>
     </item>
     <item>
-      <title>Rest</title>
-      <link>http://localhost:1313/blog/tags/rest/</link>
+      <title>Python</title>
+      <link>http://localhost:1313/blog/tags/python/</link>
       <pubDate>Sun, 15 Jun 2025 19:29:45 -0700</pubDate>
-      <guid>http://localhost:1313/blog/tags/rest/</guid>
+      <guid>http://localhost:1313/blog/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rest Api</title>
+      <link>http://localhost:1313/blog/tags/rest-api/</link>
+      <pubDate>Sun, 15 Jun 2025 19:29:45 -0700</pubDate>
+      <guid>http://localhost:1313/blog/tags/rest-api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Server</title>
+      <link>http://localhost:1313/blog/tags/server/</link>
+      <pubDate>Sun, 15 Jun 2025 19:29:45 -0700</pubDate>
+      <guid>http://localhost:1313/blog/tags/server/</guid>
       <description></description>
     </item>
     <item>
@@ -41,13 +55,6 @@
       <link>http://localhost:1313/blog/tags/venv/</link>
       <pubDate>Sun, 15 Jun 2025 19:29:45 -0700</pubDate>
       <guid>http://localhost:1313/blog/tags/venv/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Web Api</title>
-      <link>http://localhost:1313/blog/tags/web-api/</link>
-      <pubDate>Sun, 15 Jun 2025 19:29:45 -0700</pubDate>
-      <guid>http://localhost:1313/blog/tags/web-api/</guid>
       <description></description>
     </item>
   </channel>
