@@ -6,12 +6,19 @@
     <description>Recent content in Posts on The STEAM Engine</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Jun 2025 19:29:45 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 10:35:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python Virtual Environments: What and Why?</title>
+      <link>http://localhost:1313/blog/posts/python-virtual-environments/</link>
+      <pubDate>Fri, 20 Jun 2025 10:35:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/posts/python-virtual-environments/</guid>
+      <description>Want to keep your Python projects clean, organized, and bug-free? Learn how to create a “magic coding bubble” (virtual environment) that keeps your tools separate and your code happy. Perfect for beginners — even kids! Discover how one simple trick can level up your coding game.</description>
+    </item>
     <item>
       <title>Python FastAPI Server Tutorial</title>
       <link>http://localhost:1313/blog/posts/python-fastapi-tutorial/</link>
-      <pubDate>Sun, 15 Jun 2025 19:29:45 -0700</pubDate>
+      <pubDate>Sun, 15 Jun 2025 19:29:45 +0000</pubDate>
       <guid>http://localhost:1313/blog/posts/python-fastapi-tutorial/</guid>
       <description>A guided step-by-step tutorial that shows how Web API’s work. You’ll learn how to use API Tools to get data and even build your own web api using python.</description>
     </item>

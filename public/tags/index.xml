@@ -6,55 +6,76 @@
     <description>Recent content in Tags on The STEAM Engine</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Jun 2025 19:29:45 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 10:35:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Packages</title>
+      <link>http://localhost:1313/blog/tags/packages/</link>
+      <pubDate>Fri, 20 Jun 2025 10:35:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/tags/packages/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pip</title>
+      <link>http://localhost:1313/blog/tags/pip/</link>
+      <pubDate>Fri, 20 Jun 2025 10:35:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/tags/pip/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/blog/tags/python/</link>
+      <pubDate>Fri, 20 Jun 2025 10:35:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Venv</title>
+      <link>http://localhost:1313/blog/tags/venv/</link>
+      <pubDate>Fri, 20 Jun 2025 10:35:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/tags/venv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Virtual Environment</title>
+      <link>http://localhost:1313/blog/tags/virtual-environment/</link>
+      <pubDate>Fri, 20 Jun 2025 10:35:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/tags/virtual-environment/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Fastapi</title>
       <link>http://localhost:1313/blog/tags/fastapi/</link>
-      <pubDate>Sun, 15 Jun 2025 19:29:45 -0700</pubDate>
+      <pubDate>Sun, 15 Jun 2025 19:29:45 +0000</pubDate>
       <guid>http://localhost:1313/blog/tags/fastapi/</guid>
       <description></description>
     </item>
     <item>
       <title>Insomnia</title>
       <link>http://localhost:1313/blog/tags/insomnia/</link>
-      <pubDate>Sun, 15 Jun 2025 19:29:45 -0700</pubDate>
+      <pubDate>Sun, 15 Jun 2025 19:29:45 +0000</pubDate>
       <guid>http://localhost:1313/blog/tags/insomnia/</guid>
       <description></description>
     </item>
     <item>
       <title>Postman</title>
       <link>http://localhost:1313/blog/tags/postman/</link>
-      <pubDate>Sun, 15 Jun 2025 19:29:45 -0700</pubDate>
+      <pubDate>Sun, 15 Jun 2025 19:29:45 +0000</pubDate>
       <guid>http://localhost:1313/blog/tags/postman/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>http://localhost:1313/blog/tags/python/</link>
-      <pubDate>Sun, 15 Jun 2025 19:29:45 -0700</pubDate>
-      <guid>http://localhost:1313/blog/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Rest Api</title>
       <link>http://localhost:1313/blog/tags/rest-api/</link>
-      <pubDate>Sun, 15 Jun 2025 19:29:45 -0700</pubDate>
+      <pubDate>Sun, 15 Jun 2025 19:29:45 +0000</pubDate>
       <guid>http://localhost:1313/blog/tags/rest-api/</guid>
       <description></description>
     </item>
     <item>
       <title>Server</title>
       <link>http://localhost:1313/blog/tags/server/</link>
-      <pubDate>Sun, 15 Jun 2025 19:29:45 -0700</pubDate>
+      <pubDate>Sun, 15 Jun 2025 19:29:45 +0000</pubDate>
       <guid>http://localhost:1313/blog/tags/server/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Venv</title>
-      <link>http://localhost:1313/blog/tags/venv/</link>
-      <pubDate>Sun, 15 Jun 2025 19:29:45 -0700</pubDate>
-      <guid>http://localhost:1313/blog/tags/venv/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,6 +1,6 @@
 ---
 draft: false
-date: "2025-06-15T19:29:45-07:00"
+date: "2025-06-15T19:29:45"
 title: "Python FastAPI Server Tutorial"
 summary: "A guided step-by-step tutorial that shows how Web API’s work. You’ll learn how to use API Tools to get data and even build your own web api using python."
 cover:

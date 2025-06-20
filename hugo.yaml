@@ -30,6 +30,10 @@ params:
 
 menu:
   main:
+    - identifier: home
+      name: Home
+      url: ./
+      weight: 10
     - identifier: categories
       name: Categories
       url: ./categories
@@ -42,3 +46,12 @@ menu:
       name: The Vault
       url: ./archive
       weight: 40
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+services:
+  googleAnalytics:
+    id: G-PRH69BVCZ9

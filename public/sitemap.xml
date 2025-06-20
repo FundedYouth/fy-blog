@@ -3,43 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/blog/categories/</loc>
-    <lastmod>2025-06-15T19:29:45-07:00</lastmod>
+    <lastmod>2025-06-20T10:35:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/categories/coding/</loc>
-    <lastmod>2025-06-15T19:29:45-07:00</lastmod>
+    <lastmod>2025-06-20T10:35:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/fastapi/</loc>
-    <lastmod>2025-06-15T19:29:45-07:00</lastmod>
+    <loc>http://localhost:1313/blog/tags/packages/</loc>
+    <lastmod>2025-06-20T10:35:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/insomnia/</loc>
-    <lastmod>2025-06-15T19:29:45-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/postman/</loc>
-    <lastmod>2025-06-15T19:29:45-07:00</lastmod>
+    <loc>http://localhost:1313/blog/tags/pip/</loc>
+    <lastmod>2025-06-20T10:35:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/posts/</loc>
-    <lastmod>2025-06-15T19:29:45-07:00</lastmod>
+    <lastmod>2025-06-20T10:35:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/python/</loc>
-    <lastmod>2025-06-15T19:29:45-07:00</lastmod>
+    <lastmod>2025-06-20T10:35:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/python-fastapi-tutorial/</loc>
-    <lastmod>2025-06-15T19:29:45-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/rest-api/</loc>
-    <lastmod>2025-06-15T19:29:45-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/server/</loc>
-    <lastmod>2025-06-15T19:29:45-07:00</lastmod>
+    <loc>http://localhost:1313/blog/posts/python-virtual-environments/</loc>
+    <lastmod>2025-06-20T10:35:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/</loc>
-    <lastmod>2025-06-15T19:29:45-07:00</lastmod>
+    <lastmod>2025-06-20T10:35:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-06-15T19:29:45-07:00</lastmod>
+    <lastmod>2025-06-20T10:35:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/venv/</loc>
-    <lastmod>2025-06-15T19:29:45-07:00</lastmod>
+    <lastmod>2025-06-20T10:35:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/virtual-environment/</loc>
+    <lastmod>2025-06-20T10:35:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/fastapi/</loc>
+    <lastmod>2025-06-15T19:29:45+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/insomnia/</loc>
+    <lastmod>2025-06-15T19:29:45+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/postman/</loc>
+    <lastmod>2025-06-15T19:29:45+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/posts/python-fastapi-tutorial/</loc>
+    <lastmod>2025-06-15T19:29:45+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/rest-api/</loc>
+    <lastmod>2025-06-15T19:29:45+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/server/</loc>
+    <lastmod>2025-06-15T19:29:45+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/archive/</loc>
   </url>
